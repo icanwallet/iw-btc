@@ -1,0 +1,17 @@
+{
+  "name": "iw-btc",
+  "version": "1.0.5",
+  "description": "",
+  "main": "iw-address.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/icanwallet/icanwallet/issues"
+  },
+  "dependencies": {
+    "iwcrypto": "^1.0.3"
+  },
+  "author": "icanwallet",
+  "license": "ISC"
+}
